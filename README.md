@@ -45,7 +45,12 @@ git clone https://github.com/johnnietse/linkedin-connection-automation-tool.git
 # Navigate to project directory
 cd linkedin-connection-automation-tool
 
+# Create a virtual environment:
+python -m venv venv
+source venv/bin/activate (# Linux/Mac) or venv\Scripts\activate (# Windows)
+
 # Install required packages
+pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
