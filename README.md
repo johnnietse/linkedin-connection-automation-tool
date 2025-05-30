@@ -40,7 +40,7 @@ The tool processes LinkedIn profile URLs from an Excel file and sends connection
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/linkedin-connection-automation.git
+git clone https://github.com/johnnietse/linkedin-connection-automation.git
 
 # Navigate to project directory
 cd linkedin-connection-automation
