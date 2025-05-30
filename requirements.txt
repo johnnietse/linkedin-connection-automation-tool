@@ -1,0 +1,20 @@
+# Core Automation
+selenium==4.9.1
+opencv-python-headless==4.8.0.74
+pyautogui==0.9.54
+
+# Data Processing
+pandas==2.0.3
+openpyxl==3.1.2
+
+# Image Processing
+numpy==1.24.4
+imutils==0.5.4
+Pillow==10.0.0
+
+# Environment & Utilities
+python-dotenv==1.0.0
+tqdm==4.65.0  # For progress bars (optional)
+
+# WebDriver Management (optional)
+webdriver-manager==3.8.6
