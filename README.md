@@ -31,6 +31,16 @@ The tool processes LinkedIn profile URLs from an Excel file and sends connection
 - Progress saving with automatic Excel updates
 - Multi-template support for different UI variations
 
+## Workflow Summary
+graph TD
+    A[Excel Input] -->|openpyxl| B(Extract URLs)
+    B -->|Selenium| C[Navigate to Profile]
+    C -->|OpenCV| D{Detect State}
+    D -->|Message/Pending| E[Skip Profile]
+    D -->|Connect Button| F[Click via PyAutoGUI]
+    F -->|OpenCV| G[Click 'Send without note']
+    G -->|pandas| H[Log Results to Excel]
+
 ## Requirements
 - Python 3.8+
 - Chrome browser
