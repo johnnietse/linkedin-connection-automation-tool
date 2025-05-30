@@ -4,7 +4,7 @@ Selenium
 OpenCV
 
 ## ⚠️ Important Disclaimer ⚠️
-After creating this LinkedIn automation program, I've come to understand that LinkedIn explicitly prohibits the use of automation tools for activities on their platform unless these tools are developed through official partnerships with LinkedIn. Using unauthorized automation tools like this one may result in your LinkedIn account being permanently restricted or banned.
+After creating this LinkedIn automation program, I have come to understand that LinkedIn explicitly prohibits the use of automation tools for activities on their platform unless these tools are developed through official partnerships with LinkedIn. Using unauthorized automation tools like this one may result in your LinkedIn account being permanently restricted or banned.
 
 I am sharing this project on GitHub purely as a demonstration of my technical work and for educational purposes. I strongly advise against using this tool for actual LinkedIn activities, as it violates LinkedIn's User Agreement (Section 8.2) and Professional Community Policies.
 
@@ -31,16 +31,6 @@ The tool processes LinkedIn profile URLs from an Excel file and sends connection
 - Progress saving with automatic Excel updates
 - Multi-template support for different UI variations
 
-## Workflow Summary
-graph TD
-    A[Excel Input] -->|openpyxl| B(Extract URLs)
-    B -->|Selenium| C[Navigate to Profile]
-    C -->|OpenCV| D{Detect State}
-    D -->|Message/Pending| E[Skip Profile]
-    D -->|Connect Button| F[Click via PyAutoGUI]
-    F -->|OpenCV| G[Click 'Send without note']
-    G -->|pandas| H[Log Results to Excel]
-
 ## Requirements
 - Python 3.8+
 - Chrome browser
@@ -59,6 +49,60 @@ cd linkedin-connection-automation-tool
 pip install -r requirements.txt
 ```
 
+## How to Download & Install ChromeDriver Correctly
+1. Check Your Chrome Version
+    1. Open Chrome
+    2. Click ⋮ (Menu) → Help → About Google Chrome
+    3. Note the full version number (e.g., 137.0.7151.56)
+
+2. Download Matching ChromeDriver
+Based on your Chrome version (ex. 137.0.7151.56). You will need to change this according to your Chrome version number:
+
+```powershell
+# For 64-bit Windows:
+https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.55/win64/chromedriver-win64.zip
+
+# For 32-bit Windows:
+https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.55/win32/chromedriver-win32.zip
+```
+⚠️ Note: Your Chrome version (137.0.7151.56) uses ChromeDriver 137.0.7151.55 - they are compatible despite the minor difference. 
+
+3. Installation Steps
+    1. Download the correct ZIP file using the links above
+    2. Extract the ZIP file
+    3. Locate chromedriver.exe in the extracted files
+    4. Place it in your project folder:
+
+linkedinConnectionAutomation/
+│
+├── .venv/
+│   ├── Lib/
+│   ├── Scripts/
+│   ├── .gitignore
+│   └── pyvenv.cfg
+│
+├── data/
+│   ├── input_profiles.xlsx
+│   └── results.xlsx
+│
+├── templates/
+│   ├── connect_button_1.png
+│   ├── connect_button_2.png
+│   ├── connect_button_3.png
+│   ├── message_button_1.png
+│   ├── message_button_2.png
+│   ├── pending_button_1.png
+│   ├── send_without_note_button_1.png
+│   ├── send_without_note_button_2.png
+│   └── send_without_note_button_3.png
+│
+├── chromedriver.exe # <-- Place it here/Replace it with a version of ChromeDriver that can run the automation program with your Chrome Browser 
+├── LICENSE
+├── requirements.txt
+└── linkedin_follower.py
+
+
+
 ## Configuration
 1. Prepare templates:
 
@@ -69,7 +113,7 @@ pip install -r requirements.txt
   - Pending button (1 variation)
 
 2. Set up credentials:
-- Create .env file with your LinkedIn credentials:
+- Create .env file with your LinkedIn credentials (This feature no longer exists as Linkedin can track that you are logging in with an automation program):
 ```bash
 LINKEDIN_EMAIL="your@email.com"
 LINKEDIN_PASSWORD="yourpassword"
@@ -112,5 +156,5 @@ This repository is for educational purposes only. Hence, I will not accept contr
 - Increase scale or efficiency of automation
 
 ## License
-This project is licensed under the MIT License - but again, I strongly discourage actual use of this tool on LinkedIn.
+This project is licensed under the MIT License - but again, I strongly discourage actual use of this tool on LinkedIn as it may get your account restricted permanently.
 
