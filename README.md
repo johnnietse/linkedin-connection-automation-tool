@@ -78,6 +78,7 @@ https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.55/win32/chr
     3. Locate chromedriver.exe in the extracted files
     4. Place it in your project folder:
 
+<pre>
 linkedinConnectionAutomation/
 │
 ├── .venv/
@@ -105,7 +106,7 @@ linkedinConnectionAutomation/
 ├── LICENSE
 ├── requirements.txt
 └── linkedin_follower.py
-
+</pre>
 
 
 ## Configuration
