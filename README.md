@@ -4,7 +4,7 @@ Selenium
 OpenCV
 
 ## ⚠️ Important Disclaimer ⚠️
-After creating this LinkedIn automation program, I have come to understand that LinkedIn explicitly prohibits the use of automation tools for activities on their platform unless these tools are developed through official partnerships with LinkedIn. Using unauthorized automation tools like this one may result in your LinkedIn account being permanently restricted or banned.
+After creating this LinkedIn automation program, I have come to realize and understand that LinkedIn explicitly prohibits the use of automation tools for activities on their platform unless these tools are developed through official partnerships with LinkedIn. Using unauthorized automation tools like this one may result in your LinkedIn account being permanently restricted or banned.
 
 I am sharing this project on GitHub purely as a demonstration of my technical work and for educational purposes. I strongly advise against using this tool for actual LinkedIn activities, as it violates LinkedIn's User Agreement (Section 8.2) and Professional Community Policies.
 
