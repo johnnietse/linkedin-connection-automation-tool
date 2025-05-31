@@ -108,6 +108,9 @@ linkedinConnectionAutomation/
 └── linkedin_follower.py
 </pre>
 
+Note: About the .venv Directory
+When setting up this project in PyCharm (or any Python development environment), you will typically create a virtual environment, often named `.venv`or any other way you name it. This directory is intentionally excluded from the GitHub repository for important technical reasons. This is because Virtual Environments (.venv) contain platform-specific binaries that won't work for other users, and they are typically 100-500MB in size (too large for version control). Hence, they should always be recreated locally using `requirements.txt`.
+
 
 ## Configuration
 1. Prepare templates:
