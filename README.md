@@ -132,11 +132,11 @@ linkedinConnectionAutomation/
 │   ├── send_without_note_button_2.png
 │   └── send_without_note_button_3.png
 │
-├── chromedriver.exe # <-- Place it here/Replace it with a version of ChromeDriver that can run the automation program with your Chrome Browser 
 ├── LICENSE
-├── README.md    
-├── requirements.txt
-└── linkedin_follower.py
+├── README.md  
+├── chromedriver.exe # <-- Place it here/Replace it with a version of ChromeDriver that can run the automation program with your Chrome Browser 
+├── linkedin_follower.py
+└── requirements.txt
 </pre>
 
 Note: 
