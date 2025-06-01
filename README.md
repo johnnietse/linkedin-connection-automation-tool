@@ -47,8 +47,10 @@ cd linkedin-connection-automation-tool
 
 # Create a virtual environment:
 python -m venv venv
+
 ```
-    - For Linux/Mac:
+
+- For Linux/Mac:
 ```bash
 source venv/bin/activate
 ```
