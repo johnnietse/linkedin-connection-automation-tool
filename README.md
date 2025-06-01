@@ -47,7 +47,10 @@ cd linkedin-connection-automation-tool
 
 # Create a virtual environment:
 python -m venv venv
-source venv/bin/activate (# Linux/Mac) or venv\Scripts\activate (# Windows)
+    - For Linux/Mac:
+source venv/bin/activate
+    - For Windows: 
+.venv\Scripts\activate 
 
 # Install required packages
 pip install --upgrade pip
