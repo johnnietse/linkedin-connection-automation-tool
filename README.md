@@ -49,15 +49,16 @@ cd linkedin-connection-automation-tool
 python -m venv venv
 
 ```
+- For Windows: 
+```bash
+.venv\Scripts\activate 
+```
 
 - For Linux/Mac:
 ```bash
 source venv/bin/activate
 ```
-- For Windows: 
-```bash
-.venv\Scripts\activate 
-```
+
 
 # Install required packages
 ```bash
