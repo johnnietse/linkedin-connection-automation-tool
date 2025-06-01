@@ -134,6 +134,7 @@ linkedinConnectionAutomation/
 │
 ├── chromedriver.exe # <-- Place it here/Replace it with a version of ChromeDriver that can run the automation program with your Chrome Browser 
 ├── LICENSE
+├── README.md    
 ├── requirements.txt
 └── linkedin_follower.py
 </pre>
