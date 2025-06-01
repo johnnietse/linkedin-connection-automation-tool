@@ -1,7 +1,25 @@
 # LinkedIn Connection Automation Tool
-Python
-Selenium
-OpenCV
+
+## Core Automation
+![Selenium](https://img.shields.io/badge/Selenium-4.9.1-43B02A?logo=selenium)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.8.0.74-5C3EE8?logo=opencv)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0.9.54-FFD43B)
+
+## Data Processing
+![Pandas](https://img.shields.io/badge/Pandas-2.0.3-150458?logo=pandas)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-3.1.2-217346?logo=openpyxl)
+
+## Image Processing
+![NumPy](https://img.shields.io/badge/NumPy-1.24.4-013243?logo=numpy)
+![imutils](https://img.shields.io/badge/imutils-0.5.4-00A98F)
+![Pillow](https://img.shields.io/badge/Pillow-10.0.0-8F00FF?logo=python)
+
+## Environment & Utilities
+![python-dotenv](https://img.shields.io/badge/python--dotenv-1.0.0-ECD53F)
+![tqdm](https://img.shields.io/badge/tqdm-4.65.0-FF6F00)
+
+## WebDriver Management
+![webdriver-manager](https://img.shields.io/badge/webdriver--manager-3.8.6-00B7EB)
 
 ## ⚠️ Important Disclaimer ⚠️
 After creating this LinkedIn automation program, I have come to realize and understand that LinkedIn explicitly prohibits the use of automation tools for activities on their platform unless these tools are developed through official partnerships with LinkedIn. Using unauthorized automation tools like this one may result in your LinkedIn account being permanently restricted or banned.
