@@ -214,7 +214,7 @@ For legitimate professional networking purposes and actual connection references
 2. Never use the placeholder LinkedIn URLs for actual networking
 3. **Verify permissions** before using any LinkedIn automation with public spreadsheets
 4. **Comply with LinkedIn's Terms of Service** for automation tools
-5. **Transparency notice** - All LinkedIn URLs used by the tool are publicly accessible through the spreadsheet above
+5. **Transparency notice** - All LinkedIn URLs used by the tool are publicly accessible through the spreadsheet above --> [Professional Connections Master List](https://docs.google.com/spreadsheets/d/1fegEXTyBf1ROCOk5-09cY1s-Qh8UvBH-Ng3oZ4hP784/edit?gid=0#gid=0)
 6. **Compliance responsibility**:  
    - Users must ensure their automation activities comply with:
        - LinkedIn's User Agreement
