@@ -231,11 +231,7 @@ The LinkedIn data in the public spreadsheet is shared for professional networkin
 - Never spam users
 
 ## Last Notice
-### Liability Notice 
-   Again, 
-   - The authors accept no responsibility for any consequences of using this code
-   - Users implement this technology entirely at their own risk
-     
+
 Again, this repository is shared strictly as a demonstration of technical capabilities and workflow design. We highly recommend against using this tool for actual LinkedIn automation. This is because:
 - Actual implementation may:
    - Violate LinkedIn's Terms of Service
@@ -246,3 +242,10 @@ Again, this repository is shared strictly as a demonstration of technical capabi
    - May be perceived as inauthentic or spammy
    - Could undermine genuine professional connections
    - Raises privacy considerations
+ 
+### Liability Notice 
+   Again, 
+   - The authors accept no responsibility for any consequences of using this code
+   - Users implement this technology entirely at their own risk
+     
+
