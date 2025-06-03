@@ -198,18 +198,34 @@ This project is licensed under the MIT License - but again, I strongly discourag
 
 ## Important Data Usage Notice
 The two `.xlsx` files located in the [`data/`](data/) directory of this repository serve **exclusively as examples** to demonstrate:
-1. How to structure your own spreadsheets for use with this chatbot system
+1. How to structure your own spreadsheets for use with this tool
 2. The required data & URLs format for LinkedIn URL processing
 3. How to organize connection information for optimal parsing
 
-**These example files are NOT FOR PUBLIC USAGE OR DISTRIBUTION.** They contain data & URLs generated solely for demonstration purposes.
+**These example files are NOT FOR PUBLIC USAGE OR DISTRIBUTION.** They contain data & URLs generated solely for demonstration purposes. DO NOT USE for actual networking. 
+Refer to [Professional Connections Master List](https://docs.google.com/spreadsheets/d/1fegEXTyBf1ROCOk5-09cY1s-Qh8UvBH-Ng3oZ4hP784/edit?gid=0#gid=0) for authorized connection sources.
 
 For legitimate professional networking purposes and actual connection references:
-→ **Always consult the official collaboration spreadsheet**:  
+→ **Always consult the official collaboration spreadsheet** beacause this tool operates using LinkedIn URLs **derived directly from this public networking spreadsheet:  
 [Professional Connections Master List](https://docs.google.com/spreadsheets/d/1fegEXTyBf1ROCOk5-09cY1s-Qh8UvBH-Ng3oZ4hP784/edit?gid=0#gid=0)
 
 ### Key Guidelines:
 1. Never share the example `.xlsx` files outside this repository
 2. Never use the placeholder LinkedIn URLs for actual networking
-3. Always replace sample data with your own verified information
-4. Refer to the official Google Sheet for current connection details
+3. **Verify permissions** before using any LinkedIn automation with public spreadsheets
+4. **Comply with LinkedIn's Terms of Service** for automation tools
+5. **Transparency notice** - All LinkedIn URLs used by the tool are publicly accessible through the spreadsheet above
+6. **Compliance responsibility**:  
+   Users must ensure their automation activities comply with:
+   - LinkedIn's User Agreement
+   - Relevant privacy regulations (GDPR/CCPA)
+   - Professional ethics standards
+7. **Respect privacy** - only use publicly shared information with proper consent
+8. Always replace sample data with your own verified information
+9. Refer to the official Google Sheet for current connection details
+10. **Replace sample data** with your own verified information when creating personal spreadsheets
+
+## ⚠️ Professional Ethics Notice
+The LinkedIn data in the public spreadsheet is shared for professional networking purposes.
+- Respect connection preferences
+- Never spam users
