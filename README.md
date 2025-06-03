@@ -206,7 +206,7 @@ The two `.xlsx` files located in the [`data/`](data/) directory of this reposito
 Refer to [Professional Connections Master List](https://docs.google.com/spreadsheets/d/1fegEXTyBf1ROCOk5-09cY1s-Qh8UvBH-Ng3oZ4hP784/edit?gid=0#gid=0) for authorized connection sources.
 
 For legitimate professional networking purposes and actual connection references:
-→ **Always consult the official collaboration spreadsheet** beacause this tool operates using LinkedIn URLs **derived directly from this public networking spreadsheet:  
+→ **Always consult the official collaboration spreadsheet** because this tool operates using LinkedIn URLs **derived directly from this public networking spreadsheet:  
 [Professional Connections Master List](https://docs.google.com/spreadsheets/d/1fegEXTyBf1ROCOk5-09cY1s-Qh8UvBH-Ng3oZ4hP784/edit?gid=0#gid=0)
 
 ### Key Guidelines:
@@ -218,7 +218,7 @@ For legitimate professional networking purposes and actual connection references
 6. **Compliance responsibility**:  
    Users must ensure their automation activities comply with:
    - LinkedIn's User Agreement
-   - Relevant privacy regulations (GDPR/CCPA)
+   - Relevant privacy regulations 
    - Professional ethics standards
 7. **Respect privacy** - only use publicly shared information with proper consent
 8. Always replace sample data with your own verified information
