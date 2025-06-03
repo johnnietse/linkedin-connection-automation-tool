@@ -34,7 +34,7 @@ By accessing or using this software, you acknowledge that:
 - You take full responsibility for any consequences that may result from using this tool
 - You agree not to use this tool for any commercial or large-scale automation
 - LinkedIn's terms prohibit automation without explicit permission
-- Any distribution without this license (GNU APGLv3 License) is prohibited
+- Any distribution without this license (GNU AGPLv3 License) is prohibited
 
 Finally, the use of this tool to interact with LinkedIn may violate LinkedIn’s Terms of Service.
 The author assumes no responsibility for any consequences arising from use of this tool.
@@ -209,7 +209,7 @@ This repository is for educational purposes only. Hence, I will not accept contr
 - Increase scale or efficiency of automation
 
 ## License
-This project is licensed under the GNU APGLv3 License - but again, I strongly discourage actual use of this tool on LinkedIn as it may get your account restricted permanently.
+This project is licensed under the GNU AGPLv3 License - but again, I strongly discourage actual use of this tool on LinkedIn as it may get your account restricted permanently.
 
 ## Important Data Usage Notice
 The two `.xlsx` files located in the [`data/`](data/) directory of this repository serve **exclusively as examples** to demonstrate:
