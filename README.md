@@ -216,10 +216,10 @@ For legitimate professional networking purposes and actual connection references
 4. **Comply with LinkedIn's Terms of Service** for automation tools
 5. **Transparency notice** - All LinkedIn URLs used by the tool are publicly accessible through the spreadsheet above
 6. **Compliance responsibility**:  
-   Users must ensure their automation activities comply with:
-   - LinkedIn's User Agreement
-   - Relevant privacy regulations 
-   - Professional ethics standards
+   - Users must ensure their automation activities comply with:
+       - LinkedIn's User Agreement
+       - Relevant privacy regulations 
+       - Professional ethics standards
 7. **Respect privacy** - only use publicly shared information with proper consent
 8. Always replace sample data with your own verified information
 9. Refer to the official Google Sheet for current connection details
