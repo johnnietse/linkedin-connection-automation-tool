@@ -32,6 +32,9 @@ By accessing or using this software, you acknowledge that:
 - You agree not to use this tool for any commercial or large-scale automation
 - LinkedIn's terms prohibit automation without explicit permission
 
+Finally, the use of this tool to interact with LinkedIn may violate LinkedIn’s Terms of Service.
+The author assumes no responsibility for any consequences arising from use of this tool.
+
 ## Overview
 This Python-based tool automates sending connection requests on LinkedIn using a combination of:
 - Selenium for browser automation
