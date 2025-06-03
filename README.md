@@ -234,7 +234,7 @@ For legitimate professional networking purposes and actual connection references
        - LinkedIn's User Agreement
        - Relevant privacy regulations 
        - Professional ethics standards
-7. **Respect privacy** - only use publicly shared information with proper consent and transparently disclosed to recipients
+7. **Respect privacy** - only use publicly shared information with proper consent and where the individual has reasonable awareness of its visibility. Any other implementations must obtain additional explicit consent for automated interaction, as profile visibility ≠ consent for automation.
 8. Always replace sample data with your own verified information
 9. Refer to the official Google Sheet for current connection details
 10. **Replace sample data** with your own verified information when creating personal spreadsheets
