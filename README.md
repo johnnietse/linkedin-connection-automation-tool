@@ -245,7 +245,5 @@ Again, this repository is shared strictly as a demonstration of technical capabi
  
 ### Liability Notice 
    Again, 
-   - The authors accept no responsibility for any consequences of using this code
+   - The author accepts no responsibility for any consequences of using this code
    - Users implement this technology entirely at their own risk
-     
-
