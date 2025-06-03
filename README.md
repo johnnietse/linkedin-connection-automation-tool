@@ -35,6 +35,17 @@ By accessing or using this software, you acknowledge that:
 Finally, the use of this tool to interact with LinkedIn may violate LinkedIn’s Terms of Service.
 The author assumes no responsibility for any consequences arising from use of this tool.
 
+*Shared strictly as a technical demonstration - **DO NOT USE** for actual LinkedIn activities*
+
+## ⚠️ Critical Compliance Requirements
+Before proceeding, you must also acknowledge:
+- LinkedIn EXPLICITLY PROHIBITS this type of automation
+- This is NOT an official LinkedIn tool
+- Using this may get your account PERMANENTLY BANNED
+- You assume ALL LEGAL RISK
+- Never use with commercial intent
+- Never deploy this in production
+
 ## Overview
 This Python-based tool automates sending connection requests on LinkedIn using a combination of:
 - Selenium for browser automation
@@ -220,7 +231,7 @@ For legitimate professional networking purposes and actual connection references
        - LinkedIn's User Agreement
        - Relevant privacy regulations 
        - Professional ethics standards
-7. **Respect privacy** - only use publicly shared information with proper consent
+7. **Respect privacy** - only use publicly shared information with proper consent and transparently disclosed to recipients
 8. Always replace sample data with your own verified information
 9. Refer to the official Google Sheet for current connection details
 10. **Replace sample data** with your own verified information when creating personal spreadsheets
