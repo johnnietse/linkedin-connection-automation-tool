@@ -111,12 +111,6 @@ https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.55/win32/chr
 <pre>
 linkedinConnectionAutomation/
 │
-├── .venv/  # Virtual environment (not included in repo)
-│   ├── Lib/
-│   ├── Scripts/
-│   ├── .gitignore
-│   └── pyvenv.cfg
-│
 ├── data/
 │   ├── input_profiles.xlsx
 │   └── results.xlsx
