@@ -24,7 +24,7 @@
 ## ⚠️ Important Disclaimer ⚠️
 After creating this LinkedIn automation program, I have come to realize and understand that LinkedIn explicitly prohibits the use of automation tools for activities on their platform unless these tools are developed through official partnerships with LinkedIn. Using unauthorized automation tools like this one may result in your LinkedIn account being permanently restricted or banned.
 
-I am sharing this project on GitHub purely as a demonstration of my technical work and for educational purposes. I strongly advise against using this tool for actual LinkedIn activities, as it violates LinkedIn's User Agreement (Section 8.2) and Professional Community Policies.
+I am sharing this project on GitHub purely as a demonstration of my technical work. I strongly advise against using this tool for actual LinkedIn activities, as it violates LinkedIn's User Agreement (Section 8.2) and Professional Community Policies.
 
 By accessing or using this software, you acknowledge that:
 - You understand the risks of account restriction or permanent banning
@@ -229,3 +229,20 @@ For legitimate professional networking purposes and actual connection references
 The LinkedIn data in the public spreadsheet is shared for professional networking purposes.
 - Respect connection preferences
 - Never spam users
+
+## Last Notice
+### Liability Notice 
+   Again, 
+   - The authors accept no responsibility for any consequences of using this code
+   - Users implement this technology entirely at their own risk
+     
+Again, this repository is shared strictly as a demonstration of technical capabilities and workflow design. We highly recommend against using this tool for actual LinkedIn automation. This is because:
+- Actual implementation may:
+   - Violate LinkedIn's Terms of Service
+   - Risk account suspension or banning
+   - Potentially damage professional relationships
+
+- Automation of networking activities:
+   - May be perceived as inauthentic or spammy
+   - Could undermine genuine professional connections
+   - Raises privacy considerations
