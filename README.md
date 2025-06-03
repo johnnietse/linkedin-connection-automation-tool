@@ -27,7 +27,7 @@ This tool was initially developed for business network expansion.
 
 However, after creating this LinkedIn automation program, I have come to realize and understand that LinkedIn explicitly prohibits the use of automation tools for activities on their platform unless these tools are developed through official partnerships with LinkedIn. Using unauthorized automation tools like this one may result in your LinkedIn account being permanently restricted or banned.
 
-Now, I am sharing this project on GitHub purely & strictly as a demonstration of my technical work and an educational resource. I strongly advise against using this tool for actual LinkedIn activities, as it violates LinkedIn's User Agreement (Section 8.2) and Professional Community Policies.
+Now, I am sharing this project on GitHub purely & strictly as a demonstration of my technical work. I strongly advise against using this tool for actual LinkedIn activities, as it violates LinkedIn's User Agreement (Section 8.2) and Professional Community Policies.
 
 By accessing or using this software, you acknowledge that:
 - You understand the risks of account restriction or permanent banning
