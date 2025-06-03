@@ -240,7 +240,7 @@ For legitimate professional networking purposes and actual connection references
 10. **Replace sample data** with your own verified information when creating personal spreadsheets
 
 ## ⚠️ Professional Ethics Notice
-The LinkedIn data in the public spreadsheet is shared for professional networking purposes.
+The LinkedIn data in the public spreadsheet ([Professional Connections Master List](https://docs.google.com/spreadsheets/d/1fegEXTyBf1ROCOk5-09cY1s-Qh8UvBH-Ng3oZ4hP784/edit?gid=0#gid=0)) is shared for professional networking purposes.
 - Respect connection preferences
 - Never spam users
 
