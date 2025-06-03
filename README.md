@@ -34,6 +34,7 @@ By accessing or using this software, you acknowledge that:
 - You take full responsibility for any consequences that may result from using this tool
 - You agree not to use this tool for any commercial or large-scale automation
 - LinkedIn's terms prohibit automation without explicit permission
+- Any distribution without this license (GNU APGLv3 License) is prohibited
 
 Finally, the use of this tool to interact with LinkedIn may violate LinkedIn’s Terms of Service.
 The author assumes no responsibility for any consequences arising from use of this tool.
